@@ -1,4 +1,4 @@
-#对genes.tsv文件基因名称进行转换，以便后续分析
+#下载和载入包
 install.packages("Seurat")
 library(Seurat)
 library(Matrix)
